@@ -1,10 +1,10 @@
 **summary**:
     
-    This directory includes the AIMD trajectories of the Si bulk 64 atomic system at temperatures of 500K(600 images), 800K(1000 images), 900K(1000 images), 1100K(1000 images), and 1300K(1000 images).
+    This directory includes the AIMD trajectories of the Si bulk 108 atomic system at temperatures of 500K(600 images), 800K(1000 images), 900K(1000 images), 1100K(1000 images), and 1300K(1000 images).
 
 **PWmat version**: 
     
-    20230514
+    20230111
 
 **etot.input**:
 
