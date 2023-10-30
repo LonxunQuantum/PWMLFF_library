@@ -1,10 +1,10 @@
 **summary**:
     
-    This directory includes the AIMD trajectories of the Si bulk 108 atomic system at temperatures of 500K(600 images), 800K(1000 images), 900K(1000 images), 1100K(1000 images), and 1300K(1000 images).
+    This directory includes the AIMD trajectories of the Ni bulk 108 atomic system at temperatures of 500K(600 images), 800K(1000 images), and 1100K(1455 images)
 
 **PWmat version**: 
     
-    20230111
+    20230514
 
 **etot.input**:
 
@@ -14,7 +14,7 @@
     Ecut = 60
     Ecut2 = 240
     job = md
-    md_detail = 2, 1000, 2.0, 1100.000000, 1100.000000
+    md_detail = 2, 1000, 2.0, 800.000000, 800.000000
     mp_n123 = 1 1 1 0 0 0 2
     xcfunctional = GGA
     E_error = 0
