@@ -41,7 +41,7 @@ if __name__ == "__main__":
     # parser.add_argument('-t', '--interval', help='specify interval', type=int, default=10)
     # parser.add_argument('-f', '--first_range', help='specify start of range', type=int, default=0)
     # parser.add_argument('-e', '--end_range', help='specify end of range', type=int, default=1)
-    os.chdir("/data/home/wuxingxing/datas/PWMLFF_library/C")
+    os.chdir("/data/home/wuxingxing/datas/PWMLFF_library/CH3CH2OH/CH3CH2OH")
     parser.add_argument('-w', '--work_dir', help='specify stored directory', type=str, default=os.getcwd())
     args = parser.parse_args()
     cut_atom_config(args.work_dir)

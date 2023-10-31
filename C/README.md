@@ -4,7 +4,7 @@
 
 **PWmat version** 
     
-    ******
+    20230616
 
 
 **MD initial configuration**
