@@ -1,40 +1,89 @@
-**summary**:
-    
-    This directory includes the AIMD trajectories of the Ni bulk 108 atomic system at temperatures of 500K(600 images), 800K(1000 images), and 1100K(1455 images)
+**H2C_mp_985782**:
 
-**PWmat version**: 
-    
-    20230514
-
-**etot.input**:
-
-    4 1
-    in.atom = atom.config
-    IN.PSP1 = Ni.SG15.PBE.UPF
-    Ecut = 60
-    Ecut2 = 240
-    job = md
-    md_detail = 2, 1000, 2.0, 800.000000, 800.000000
-    mp_n123 = 1 1 1 0 0 0 2
-    xcfunctional = GGA
-    E_error = 0
-    Rho_error = 1E-5
-    SCF_ITER0_1 =    6   4    3    0.0000     0.20000    2
-    SCF_ITER0_2 =   94   4    3    1.0000     0.20000    2
-    SCF_ITER1_1 =   40   4    3    1.0000     0.20000    2
-
-    OUT.WG = F 
-    OUT.RHO = F 
-    OUT.VR = F 
-    OUT.FORCE = T 
-    OUT.STRESS = T 
-    OUT.MLMD = T
-    ENERGY_DECOMP = T, 1
+   1000 images(atom nums 96)
+   Broad cell: H8 C4   4x2x1
 
 
-**structure:**
+**H2C3_mp_995217**:
 
-![](/ni/POSCAR.png)
+   1000 images(atom nums 80)
+   Broad cell: H16 C24 1x1x2
 
 
+**H4C_mp_1021328**:
+
+   1000 images(atom nums 80)
+   Broad cell: H8 C2   2x2x2
+
+
+**H4C7_mp_1097016**:
+
+   1000 images(atom nums 132)
+   Broad cell: 48 C84 1x1x1
+
+
+**H8C5_mp_1195106**:
+
+   1000 images(atom nums 104)
+   Broad cell: 32 C20 2x1x1
+
+
+**H34C19_mp_30168**:
+
+   1000 images(atom nums 106)
+   Broad cell: 68 C38 1x1x1
+
+
+**H34C19_mp_866659**:
+
+   1000 images(atom nums 106)
+   Broad cell: 68 C38 1x1x1
+
+
+**HC_mp_995195**:
+
+   1000 images(atom nums 64)
+   Broad cell: H4 C4   2x1x4
+
+
+**HC_mp_995197**:
+
+   1000 images(atom nums 64)
+   Broad cell: H16 C16 1x1x2
+
+
+**HC_mp_1079612**:
+
+   1000 images(atom nums 128)
+   Broad cell: 8 C8   2x2x2
+
+
+**HC_mp_1096986**:
+
+   1000 images(atom nums 32)
+   Broad cell: H2 C2   2x2x2
+
+
+**HC2_mp_603334**:
+
+   1000 images(atom nums 144)
+   Broad cell: 24 C48 1x2x1
+
+
+**HC2_mp_995184**:
+
+   535 images(atom nums 288)
+   Broad cell: 4 C8   1x6x4
+
+
+**HC3_mp_995200**:
+
+   1000 images(atom nums 64)
+   Broad cell: H2 C6   4x2x1
+
+
+**HC6_mp_995202**:
+
+   1000 images(atom nums 112)
+   Broad cell: 2 C12  4x2x1
 
