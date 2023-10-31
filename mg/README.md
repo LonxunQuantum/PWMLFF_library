@@ -37,7 +37,7 @@
     OUT.MLMD = T
     ENERGY_DECOMP = T, 1
 
-**structure:**
+**MD initial configuration:**
 
 ![](/mg/POSCAR.png)
 
