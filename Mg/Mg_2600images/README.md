@@ -2,6 +2,16 @@
     
     This directory includes the AIMD trajectories of the Mg bulk 108 atomic system at temperatures of 300K(600 images), 500K(1000 images), 800K(1000 images).
 
+**The data cloud drive link**
+
+      https://pan.baidu.com/s/1beeblCJ7_ep6nVfbIjHF4w?pwd=pwmt  
+
+      Extracted code pwmt  
+
+   You could also scan this QR code to download.
+
+   ![Alt text](MG_2600QR.png)
+
 **PWmat version** 
     
     300K data with 20221214 version
