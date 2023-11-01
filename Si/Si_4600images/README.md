@@ -2,6 +2,17 @@
     
     This directory includes the AIMD trajectories of the Si bulk 64 atomic system at temperatures of 500K(600 images), 800K(1000 images), 900K(1000 images), 1100K(1000 images), and 1300K(1000 images).
 
+**The data cloud drive link**
+
+      https://pan.baidu.com/s/1TCXoj9w_0N519FHIxq56yQ?pwd=pwmt 
+
+      Extracted code pwmt  
+
+   You could also scan this QR code to download.
+
+   ![Alt text](Si_4600QR.png)
+
+
 **PWmat version**: 
     
     20230418

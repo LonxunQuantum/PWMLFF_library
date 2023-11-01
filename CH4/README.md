@@ -2,6 +2,17 @@
     
     This directory includes the AIMD trajectories of the CH4 system at temperatures of 300K(1000 images), 500K(1000 images), 1000K(1000 images), and 1200K(1000 images)
 
+**The data cloud drive link**
+
+      https://pan.baidu.com/s/1i9UOEjxEZq0wUEXpH3uvWg?pwd=ghrl
+   
+      Extracted code ghrl
+
+   You could also scan this QR code to download.
+
+   ![Alt text](CH4_QR.png)
+
+
 **PWmat version** 
     
      20230616

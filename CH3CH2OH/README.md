@@ -2,6 +2,17 @@
     
     This directory includes the AIMD trajectories of the CH3CH2OH system at temperatures of 100K(500 images), 300K(500 images), and 400K(500 images)
 
+**The data cloud drive link**
+
+      https://pan.baidu.com/s/1dN8rhPw8cCNblmNgLHY46w?pwd=1ptt
+   
+      Extracted code 1ptt
+
+   You could also scan this QR code to download.
+
+   ![Alt text](CH3_QR.png)
+
+
 **PWmat version** 
     
      20230616

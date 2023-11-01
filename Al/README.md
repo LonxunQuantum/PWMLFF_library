@@ -1,34 +1,54 @@
-**1**
+**summary**
 
-   4786 images (32 atoms) dynamics temperature 300K
+      This directory includes 24443 images of Al system. The data cloud drive link is 
+
+
+**The data cloud drive link**
+
+      https://pan.baidu.com/s/1FMH_EwiCwfMLOIOlk9e1Ug?pwd=8lg5 
+   
+      Extracted code 8lg5
+
+   You could also scan this QR code to download.
+
+   ![Alt text](AL_QR.png)
+   
+<div align="left">
+<img src="image.png" width = "80%" />
+</div>
+
+
+**PW1**
+
+      4786 images (32 atoms) dynamics temperature 300K
     
-**2**
+**PW2**
 
-   5468 images (32 atoms) dynamics temperature 300K
+      5468 images (32 atoms) dynamics temperature 300K
     
-**3**
+**PW3**
 
-   4339 images (32 atoms) dynamics temperature 300K
+      4339 images (32 atoms) dynamics temperature 300K
     
-**4**
+**PW4**
 
-   4972 images (32 atoms) dynamics temperature 300K
+      4972 images (32 atoms) dynamics temperature 300K
     
-**5**
+**PW5**
 
-   1193 images (32 atoms) dynamics temperature 300K
+      1193 images (32 atoms) dynamics temperature 300K
     
-**6**
+**PW6**
 
-   1364 images (32 atoms) dynamics temperature 500K
+      1364 images (32 atoms) dynamics temperature 500K
     
-**7**
+**PW7**
 
-   1081 images (32 atoms) dynamics temperature 800K
+      1081 images (32 atoms) dynamics temperature 800K
     
-**8**
+**PW8**
 
-   1240 images (32 atoms) dynamics temperature 1000K
+      1240 images (32 atoms) dynamics temperature 1000K
     
 
 **PWmat version** 

@@ -2,6 +2,16 @@
     
     This directory includes the AIMD trajectories of the Ni bulk 108 atomic system at temperatures of 500K(600 images), 800K(1000 images), and 1100K(1455 images)
 
+**The data cloud drive link**
+
+      https://pan.baidu.com/s/1EFeYJYBEaQeQTqquXSSYDw?pwd=pwmt 
+  
+      Extracted code pwmt  
+
+   You could also scan this QR code to download.
+
+   ![Alt text](Ni_QR.png)
+
 **PWmat version**: 
     
     20230514
