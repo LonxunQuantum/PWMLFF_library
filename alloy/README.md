@@ -1,7 +1,6 @@
 **summary**
 
-      This directory includes 9436
- images of Ru, Rh, Ir, Pd, Ni alloy. 
+      This directory includes 9436 images of Ru, Rh, Ir, Pd, Ni alloy. 
 
 [**The data cloud drive link**](https://pan.baidu.com/s/1ndae29DrZ532BupMzAwWYQ?pwd=pwmt)
 
